@@ -1,0 +1,5 @@
+# Dependency directories
+
+# Build directories
+.next/
+node_modules/
